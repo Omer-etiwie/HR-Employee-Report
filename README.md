@@ -5,6 +5,10 @@
 
 This data analysis project aims to provide insights into the distribution performance  over the 10 years. By analyzing various aspects of the data, we need to make data-driven recommendations and gain a deeper understanding of the company's performance.
 
+![Dashboard-1](https://github.com/Omer-etiwie/HR-Employee-Report/assets/171517937/821b4087-c283-43b1-9394-f8f71af2ec43)
+![Dashboard-2](https://github.com/Omer-etiwie/HR-Employee-Report/assets/171517937/71f5cfdc-ffeb-4310-bb44-36cf627d66c5)
+
+
 ### Data Sources
 
 HR Data: The primary dataset used for this analysis is the "Human Resources.csv" 
@@ -28,6 +32,9 @@ EDA involved exploring the sales data to answer key questions, such as:
 - What is the gender distribution of employees in the company?
 - What is the age distribution of employees in the company?
 - Which department has the highest turnover rate?
+
+  ![Ex-PIC](https://github.com/Omer-etiwie/HR-Employee-Report/assets/171517937/b3a9bfd9-83e0-491d-8ee9-2a54aa4c8b73)
+
 
 ### Data Analysis
 
